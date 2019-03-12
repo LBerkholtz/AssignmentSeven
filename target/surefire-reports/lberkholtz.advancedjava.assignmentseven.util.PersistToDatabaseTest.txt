@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: lberkholtz.advancedjava.assignmentseven.util.PersistToDatabaseTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.188 s <<< FAILURE! - in lberkholtz.advancedjava.assignmentseven.util.PersistToDatabaseTest
+TestPersistToDatabase(lberkholtz.advancedjava.assignmentseven.util.PersistToDatabaseTest)  Time elapsed: 0.188 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.hibernate.Session.close()V
+	at lberkholtz.advancedjava.assignmentseven.util.PersistToDatabaseTest.TestPersistToDatabase(PersistToDatabaseTest.java:30)
+

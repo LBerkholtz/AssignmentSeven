@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lberkholtz.advancedjava.assignmentseven.util.DatabaseUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.921 s - in lberkholtz.advancedjava.assignmentseven.util.DatabaseUtilsTest
