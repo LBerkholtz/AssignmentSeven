@@ -1,2 +1,1 @@
-# AssignmentSeven
-Assignment Seven Advanced Java
+# Stock App using Hibernate and XML
